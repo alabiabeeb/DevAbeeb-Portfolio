@@ -131,7 +131,7 @@ const Home = () => {
           transition={{ duration: 1 }}
         >
           <motion.img
-            src="/profile.jpg"
+            src="/profile.jpeg"
             alt="DEVABEEB portrait"
             whileHover={{ scale: 1.05, rotate: 2 }}
             transition={{ type: "spring", stiffness: 200 }}
